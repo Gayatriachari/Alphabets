@@ -1,4 +1,4 @@
-package practice.problems;
+
 
 public class Launch4 { 
 	public static void main(String[] args) { 
